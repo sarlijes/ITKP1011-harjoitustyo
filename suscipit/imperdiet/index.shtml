@@ -18,12 +18,105 @@
 	<script src="https://appro.mit.jyu.fi/tools/htmlinspector/html-inspector.js"></script>
 	<script src="https://appro.mit.jyu.fi/tools/itkp1011/itkp1011.js"></script>
 	<!-- tästä eteenpäin voit muutella vapaasti -->
+	<link rel="StyleSheet" href="../../tyylit/tyylit.css" type="text/css" />
 
-	<title>ITKP1011-harjoitustyö</title>
-	<h1>imperdiet - Taso 3</h1>
+	<title>imperdiet - ITKP1011-Harjoitustyö</title>
+
 </head>
 
 <body>
+	<h1>imperdiet - Taso 3</h1>
+
+	<p>
+		Suspendisse cursus non nisl non sagittis. Quisque sodales suscipit massa eu rhoncus. Aenean non justo nibh. Aenean
+		tortor est, ultrices at arcu at, auctor consequat risus. Phasellus at ipsum vel odio semper egestas. Aliquam ac
+		augue quis urna maximus faucibus at eu neque. Pellentesque euismod dui ac augue dignissim, quis fermentum lacus
+		sodales. Aenean fringilla pulvinar posuere. In vitae metus ornare, tincidunt sapien sed, mattis felis.
+	</p>
+
+	<p>
+		Nam a ultrices purus. Donec tempor, quam et auctor imperdiet, arcu turpis iaculis tortor, sit amet molestie tortor
+		lacus quis turpis. Vivamus at vehicula sem. Sed eget arcu vel massa mattis aliquam quis non arcu. Mauris id volutpat
+		risus. Integer aliquam turpis in mi scelerisque, ut fringilla urna feugiat. Cras blandit vulputate mauris, sed
+		ornare nisl suscipit sed. Mauris rhoncus venenatis massa, vitae venenatis turpis. Proin fermentum diam et fringilla
+		pellentesque. Nam eget tincidunt libero. Suspendisse nisi ipsum, volutpat id rutrum at, dignissim id velit.
+		Vestibulum vitae efficitur sapien. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia
+		Curae; Ut iaculis mattis est vel molestie. Praesent vehicula non nisl eu consectetur.
+	</p>
+	<p>
+		Integer sollicitudin velit justo, quis interdum tellus efficitur sed. Cras luctus, nulla sit amet condimentum
+		ornare, libero est dignissim turpis, ac dignissim sapien dui sed mi. Proin et mauris efficitur, tincidunt quam ac,
+		scelerisque eros. Sed mollis porta lacus at pretium. Ut efficitur consequat eleifend. Maecenas commodo, nunc eu
+		rutrum facilisis, eros turpis elementum dui, vitae sollicitudin dolor urna id tortor. Duis hendrerit tortor
+		pellentesque lacus fermentum, non vehicula massa congue. Duis vitae ante nulla. Vestibulum vel tempus nibh, in porta
+		orci. Integer rhoncus, ante nec ultricies elementum, odio tellus feugiat diam, vel aliquam magna neque sed lectus.
+		Nunc in nulla mattis, dictum erat efficitur, interdum nisi. Nulla nec massa velit.
+	</p>
+
+	<div class="flexbox">
+		<div class="galleriakuva">
+			<a href="../../kuvat/kuva1.jpg">
+				<img src="../../kuvat/kuva1_pieni.jpg" alt="maisemakuva, linkki isompaan kuvaan" />
+			</a>
+			<div class="kuva-teksti">kuva 1</div>
+		</div>
+
+		<div class="galleriakuva">
+			<a href="../../kuvat/kuva2.jpg">
+				<img src="../../kuvat/kuva2_pieni.jpg" alt="maisemakuva, linkki isompaan kuvaan" />
+			</a>
+			<div class="kuva-teksti">kuva 2</div>
+		</div>
+		<div class="galleriakuva">
+			<a href="../../kuvat/kuva3.jpg">
+				<img src="../../kuvat/kuva3_pieni.jpg" alt="maisemakuva, linkki isompaan kuvaan" />
+			</a>
+			<div class="kuva-teksti">kuva 3</div>
+		</div>
+		<div class="galleriakuva">
+			<a href="../../kuvat/kuva4.jpg">
+				<img src="../../kuvat/kuva4_pieni.jpg" alt="maisemakuva, linkki isompaan kuvaan" />
+			</a>
+			<div class="kuva-teksti">kuva 4</div>
+		</div>
+		<div class="galleriakuva">
+			<a href="../../kuvat/kuva5.jpg">
+				<img src="../../kuvat/kuva5_pieni.jpg" alt="maisemakuva, linkki isompaan kuvaan" />
+			</a>
+			<div class="kuva-teksti">kuva 5</div>
+		</div>
+		<div class="galleriakuva">
+			<a href="../../kuvat/kuva6.jpg">
+				<img src="../../kuvat/kuva6_pieni.jpg" alt="maisemakuva, linkki isompaan kuvaan" />
+			</a>
+			<div class="kuva-teksti">kuva 6</div>
+		</div>
+		<div class="galleriakuva">
+			<a href="../../kuvat/kuva7.jpg">
+				<img src="../../kuvat/kuva7_pieni.jpg" alt="maisemakuva, linkki isompaan kuvaan" />
+			</a>
+			<div class="kuva-teksti">kuva 7</div>
+		</div>
+	</div>
+
+	<p>
+		Morbi et nibh vel felis imperdiet pellentesque et eu metus. Integer feugiat eu diam sed volutpat. Sed vehicula,
+		tortor vitae pretium suscipit, nisl elit imperdiet massa, id tristique turpis nibh vel massa. Nam ullamcorper
+		consectetur efficitur. Curabitur dictum enim vel eros vulputate, vel venenatis diam dapibus. Quisque blandit feugiat
+		felis eget euismod. Fusce sollicitudin eleifend nisl, ac gravida dolor. Ut sit amet enim congue, porttitor augue at,
+		luctus turpis. Aliquam at est vitae massa convallis sagittis quis et lacus. Nulla non pharetra nisi, ac tristique
+		nunc. Vivamus at eros lacus.
+	</p>
+
+	<p>
+		Praesent pretium ante eu eros luctus, in feugiat nulla hendrerit. Integer eget nunc in nisi tincidunt molestie.
+		Integer venenatis mauris a tellus semper, at efficitur nunc consequat. Aenean auctor risus dictum libero mollis
+		laoreet. Fusce faucibus sagittis turpis, ac iaculis tortor vulputate vitae. Sed finibus dui ipsum, et rutrum massa
+		hendrerit non. Aliquam ultricies iaculis gravida. Morbi vel eros ac dui efficitur malesuada. Proin consequat
+		hendrerit turpis sit amet pretium. Ut luctus sollicitudin pulvinar. Praesent molestie fringilla auctor. Duis vel
+		felis arcu. Duis sed libero purus. Donec malesuada mauris at semper placerat.
+	</p>
+
 
 </body>
 

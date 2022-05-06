@@ -85,4 +85,19 @@ table th {
 .kuva-teksti {
   width: 93%;
   text-align: center;
+  font-weight: bold;
+}
+
+.flexbox {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.galleriakuva {
+  padding: 1.5em;
+  /* flex pienentää kokoa automaattisesti jos on tarve */
+  /* min-width: 15em; */
+  /* jos min-width on määrätty, ei pienennetä alle sen
+                             vaan ylimääräinen valuu ulos alueesta */
 }
