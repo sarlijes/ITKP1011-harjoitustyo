@@ -20,10 +20,25 @@ h1 {
   border: 10px solid #d3cd92;
 }
 
-.navbartop a:link,
-.navbox a:link {
-  text-decoration: none;
-  /* poistaa alleviivauksen */
+.navbartop {
+  background-color: #ebe49e;
+}
+
+.navbartop ul li {
+  display: inline;
+  border-left: 1px solid black;
+  margin-left: 0.5em;
+  padding-left: 0.5em;
+}
+
+.navbartop ul {
+  padding: 0.5em;
+}
+
+.navbartop ul li:first-child {
+  border-left: 0;
+  margin-left: 0;
+  padding-left: 0;
 }
 
 .kuva-container {
