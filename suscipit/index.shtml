@@ -2,8 +2,8 @@
 <html lang="fi" xmlns="http://www.w3.org/1999/xhtml" xml:lang="fi">
 
 <head>
-  <meta charset="utf-8" />
-  <!-- Älä muuta tai poista seuraavia script-elementtejä
+	<meta charset="utf-8" />
+	<!-- Älä muuta tai poista seuraavia script-elementtejä
 	Kurssin oma tarkistin tarkistaa sivusi kieliopin ja harjoitustyöhön liittyviä 
 	ongelmia ja ilmoittaa virheistä selaimen konsolissa. Tämä ei kuitenkaan korvaa kurssin
 	varsinaista harjoitustyötarkistuskonetta. Konsolin ja virheilmoitukset 
@@ -15,12 +15,12 @@
 
 	Kaikki virheilmoitukset taltioidaan myös kurssin omaan tietokantaan ja niitä 
 	hyödynnetään kurssimateriaalin ja tarkistimien jatkokehityksessä. -->
-  <script src="https://appro.mit.jyu.fi/tools/htmlinspector/html-inspector.js"></script>
-  <script src="https://appro.mit.jyu.fi/tools/itkp1011/itkp1011.js"></script>
-  <!-- tästä eteenpäin voit muutella vapaasti -->
+	<script src="https://appro.mit.jyu.fi/tools/htmlinspector/html-inspector.js"></script>
+	<script src="https://appro.mit.jyu.fi/tools/itkp1011/itkp1011.js"></script>
+	<!-- tästä eteenpäin voit muutella vapaasti -->
 
-  <title>ITKP1011-harjoitustyö</title>
-  <h1>Otsikko</h1>
+	<title>ITKP1011-harjoitustyö</title>
+	<h1>suscipit - Taso 1</h1>
 </head>
 
 <body>
