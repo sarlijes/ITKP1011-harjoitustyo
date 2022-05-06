@@ -18,6 +18,7 @@
 	<script src="https://appro.mit.jyu.fi/tools/htmlinspector/html-inspector.js"></script>
 	<script src="https://appro.mit.jyu.fi/tools/itkp1011/itkp1011.js"></script>
 	<!-- tästä eteenpäin voit muutella vapaasti -->
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
 	<link rel="StyleSheet" href="../../tyylit/tyylit.css" type="text/css" />
 	<title>proin - ITKP1011-Harjoitustyö</title>
 
