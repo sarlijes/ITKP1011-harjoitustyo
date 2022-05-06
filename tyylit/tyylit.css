@@ -3,25 +3,34 @@ body {
   margin-right: 5%;
   margin-top: 1%;
   margin-bottom: 1%;
-  font-size: 1em;
-  font-weight: normal;
-  word-spacing: normal;
-  letter-spacing: normal;
-  text-transform: none;
   font-family: Arial, sans-serif;
-  font-size-adjust: .58;
 }
 
 h1 {
   margin-left: 1em;
   margin-right: 1em;
   margin-top: 1.5em;
-  margin-bottom: 1.5em;
 }
 
 .navbox {
   width: 30%;
   float: left;
+  margin-right: 1em;
   background-color: #ebe49e;
   border: 10px solid #d3cd92;
+}
+
+.navbartop a:link,
+.navbox a:link {
+  text-decoration: none;
+  /* poistaa alleviivauksen */
+}
+
+.kuva-container {
+  margin: 2em;
+}
+
+.kuva-teksti {
+  width: 93%;
+  text-align: center;
 }
