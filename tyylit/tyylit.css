@@ -34,3 +34,14 @@ h1 {
   width: 93%;
   text-align: center;
 }
+
+table {
+  border: 2px dashed #ccd0ab;
+  border-collapse: collapse;
+}
+
+table td,
+table th {
+  border: 1px dotted #ccd0ab;
+  text-align: center;
+}
