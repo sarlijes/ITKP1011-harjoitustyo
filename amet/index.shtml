@@ -2,8 +2,8 @@
 <html lang="fi" xmlns="http://www.w3.org/1999/xhtml" xml:lang="fi">
 
 <head>
-  <meta charset="utf-8" />
-  <!-- Älä muuta tai poista seuraavia script-elementtejä
+	<meta charset="utf-8" />
+	<!-- Älä muuta tai poista seuraavia script-elementtejä
 	Kurssin oma tarkistin tarkistaa sivusi kieliopin ja harjoitustyöhön liittyviä 
 	ongelmia ja ilmoittaa virheistä selaimen konsolissa. Tämä ei kuitenkaan korvaa kurssin
 	varsinaista harjoitustyötarkistuskonetta. Konsolin ja virheilmoitukset 
@@ -15,15 +15,70 @@
 
 	Kaikki virheilmoitukset taltioidaan myös kurssin omaan tietokantaan ja niitä 
 	hyödynnetään kurssimateriaalin ja tarkistimien jatkokehityksessä. -->
-  <script src="https://appro.mit.jyu.fi/tools/htmlinspector/html-inspector.js"></script>
-  <script src="https://appro.mit.jyu.fi/tools/itkp1011/itkp1011.js"></script>
-  <!-- tästä eteenpäin voit muutella vapaasti -->
+	<script src="https://appro.mit.jyu.fi/tools/htmlinspector/html-inspector.js"></script>
+	<script src="https://appro.mit.jyu.fi/tools/itkp1011/itkp1011.js"></script>
+	<!-- tästä eteenpäin voit muutella vapaasti -->
 
-  <title>ITKP1011-harjoitustyö</title>
-  <h1>amet</h1>
+	<link rel="StyleSheet" href="../../tyylit/tyylit.css" type="text/css" />
+	<title>ITKP1011-harjoitustyö</title>
+
 </head>
 
 <body>
+	<h1>amet</h1>
+
+	<p>
+		Nulla porttitor, purus a volutpat dignissim, nunc purus gravida magna, non posuere ante odio at libero. Praesent
+		egestas eget velit et dictum. Fusce sed elit sed tellus efficitur lobortis. Integer sit amet cursus mi. Etiam sem
+		tellus, rutrum vel ligula eu, pellentesque vestibulum dui. Maecenas lobortis eu nibh non vulputate. Duis sem augue,
+		varius sed libero vitae, finibus molestie orci. Curabitur quis porta orci, id molestie lacus. Duis turpis arcu,
+		egestas ac nisl non, vulputate pharetra nisl. Nam accumsan dolor odio, et sagittis velit finibus eu.
+	</p>
+
+	<p>
+		Morbi mollis tellus eget nisl iaculis facilisis. Duis maximus eu enim quis sodales. Integer orci quam, vulputate
+		vitae ullamcorper nec, mollis egestas enim. Donec ultricies nisi iaculis scelerisque molestie. Phasellus gravida
+		sollicitudin massa et venenatis. Etiam sit amet mollis nulla, in convallis arcu. Aliquam egestas nulla risus, vitae
+		pretium enim bibendum id. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;
+		Integer molestie lorem a vehicula tempus. Vestibulum vulputate nisi est, blandit posuere sapien fringilla non.
+	</p>
+
+	<p>
+		Vestibulum gravida congue mollis. Duis cursus dui commodo, finibus dui a, convallis eros. Sed ut lectus lorem. Sed
+		pellentesque convallis lorem, at vulputate velit accumsan pellentesque. Proin ultricies lacus et turpis blandit
+		semper. Praesent ac lacus eget tortor vehicula pulvinar quis quis mi. Nunc euismod venenatis arcu, vel aliquet nulla
+		tempor ac. Quisque erat tortor, viverra ac metus at, porttitor consectetur nulla. Sed rutrum sollicitudin eros et
+		dictum. Maecenas fermentum ipsum eu sem egestas fermentum. Praesent suscipit finibus est, quis luctus nunc
+		consectetur eu. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+	</p>
+
+	<p>
+		Nulla iaculis scelerisque ligula eget aliquet. Nunc pretium laoreet justo aliquet vestibulum. Quisque sit amet
+		facilisis augue. Nulla facilisis urna sit amet est vehicula egestas. Vivamus ut aliquam arcu. Aenean vel vehicula
+		lacus, sed euismod mi. Phasellus id convallis dolor, et dictum nisl. Nam eu tempus ex. Donec euismod odio ac
+		tristique sollicitudin. Phasellus a malesuada velit, sit amet malesuada justo. Mauris ac lacus id erat tempus
+		rhoncus sed nec erat. Nullam venenatis, mi a facilisis tempus, enim ligula tempus arcu, a elementum dolor ex non
+		massa. Duis nibh ante, venenatis ac elit sit amet, efficitur ultrices lacus. Curabitur neque lorem, hendrerit
+		finibus accumsan ut, commodo nec leo. Nullam tristique felis sit amet venenatis pretium. Sed mattis ac enim a
+		mollis.
+	</p>
+
+	<p>
+		Nunc at vehicula purus. Vestibulum iaculis arcu non accumsan consequat. Aenean luctus eget metus at scelerisque.
+		Etiam accumsan, nunc sed bibendum ornare, tortor felis pulvinar felis, eget scelerisque nisl ligula eu tellus. Ut id
+		urna
+		justo. Ut efficitur ac neque quis venenatis. Aliquam turpis lectus, lacinia ac aliquam quis, facilisis ac nulla.
+		Integer id felis feugiat, aliquam tortor non, sagittis eros. Phasellus dolor felis, varius id lorem ut, semper
+		laoreet
+		odio.
+	</p>
+
+	<p>
+		Donec faucibus egestas felis, non vulputate nibh vehicula vel. In rutrum nunc odio, in tempor eros ullamcorper eu.
+		Pellentesque luctus ornare feugiat. Nulla sit amet odio nibh. Sed tincidunt at felis ut ornare. Aenean et tempus
+		risus. Vivamus sit amet sollicitudin nisi. Quisque quis lorem tempus, iaculis metus id, varius lectus. Ut congue eu
+		ex at varius.
+	</p>
 
 </body>
 
