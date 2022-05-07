@@ -30,7 +30,7 @@
 	<!-- TODO siirretään yläpalkkiin -->
 	<form action="http://www.google.com/search" method="get">
 		<div>
-			<input type="hidden" name="as_q" value="site:users.jyu.fi/~omatunnuksesi/www/" />
+			<input type="hidden" name="as_q" value="site:users.jyu.fi/~jsarlin/www/" />
 			<input type="text" size="20" id="hakusanat" name="q" value="" />
 			<input type="submit" value="Hae" />
 		</div>
