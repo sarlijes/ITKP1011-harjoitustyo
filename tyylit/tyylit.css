@@ -115,18 +115,27 @@ table th {
 
 /* Media */
 
-.kuva-container {
-  margin: 2em;
+.kuva-teksti {
+  text-align: center;
+  font-weight: bold;
 }
 
-.kuva-teksti {
-  width: 512px;
+.images {
+  margin: 20em;
+}
+
+#images a {
+  margin-left: 2em;
+  margin-top: 1.2em;
+  margin-bottom: 1.2em;
+  display: inline-block;
+  text-decoration: none;
+  color: black;
   text-align: center;
   font-weight: bold;
 }
 
 .kuva-teksti-galleria {
-  width: 256px;
   text-align: center;
   font-weight: bold;
 }
@@ -138,7 +147,10 @@ table th {
 }
 
 .galleriakuva {
-  padding: 1.5em;
+  padding-top: 1.5em;
+  padding-left: 2.5em;
+  padding-right: 1.5em;
+  padding-bottom: 0.5em;
 }
 
 .video {
