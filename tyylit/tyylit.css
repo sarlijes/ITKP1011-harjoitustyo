@@ -58,11 +58,8 @@ table th {
 
 /* Navigation bar - top */
 
-.navbartop {
+.navbartop li {
   background-color: #ebe49e;
-}
-
-.navbartop ul li {
   display: inline;
   border-left: 1px solid black;
   margin-left: 0.5em;
@@ -70,6 +67,7 @@ table th {
 }
 
 .navbartop ul {
+  background-color: #ebe49e;
   padding: 0.5em;
 }
 
