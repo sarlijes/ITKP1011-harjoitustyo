@@ -18,8 +18,8 @@
 	<script src="https://appro.mit.jyu.fi/tools/htmlinspector/html-inspector.js"></script>
 	<script src="https://appro.mit.jyu.fi/tools/itkp1011/itkp1011.js"></script>
 	<!-- tästä eteenpäin voit muutella vapaasti -->
-	<base href="http://users.jyu.fi/~jsarlin/cursus/" />
-	<link rel="StyleSheet" href="./tyylit/tyylit.css" type="text/css" media="all">
+	<base href="../.." />
+	<link rel="StyleSheet" href="tyylit/tyylit.css" type="text/css" media="all">
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
 	<title>maecenas - ITKP1011-Harjoitustyö</title>
 
