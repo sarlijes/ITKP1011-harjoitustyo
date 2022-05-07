@@ -55,33 +55,36 @@
 				quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean
 				ultricies mi vitae est. Mauris placerat eleifend leo.</p>
 		</div>
-		<aside class="aside aside-2">Aside 2</aside>
+		<aside class="aside aside-2">
+			<nav>
+				<ul>
+					<li class="navitem"><a href="amet/">amet</a></li>
+					<li class="navitem"><a href="porttitor/">porttitor</a></li>
+					<li class="navitem"><a href="proin/">proin</a>
+						<ul>
+							<li class="navitem"><a href="proin/ante/">ante</a></li>
+							<li class="navitem"><a href="proin/arcu/">arcu</a></li>
+							<li class="navitem"><a href="proin/ex/">ex</a></li>
+						</ul>
+					</li>
+					<li class="navitem"><a href="suscipit/">suscipit</a>
+						<ul>
+							<li class="navitem"><a href="suscipit/est/">est</a></li>
+							<li class="navitem"><a href="suscipit/imperdiet/">imperdiet</a></li>
+							<li class="navitem"><a href="suscipit/maecenas/">maecenas</a></li>
+						</ul>
+					</li>
+				</ul>
+			</nav>
+
+		</aside>
 	</div>
 
 
 	<div class="navigation">
 
 
-		<nav class="navbox-right">
-			<ul>
-				<li class="navitem"><a href="amet/">amet</a></li>
-				<li class="navitem"><a href="porttitor/">porttitor</a></li>
-				<li class="navitem"><a href="proin/">proin</a>
-					<ul>
-						<li class="navitem"><a href="proin/ante/">ante</a></li>
-						<li class="navitem"><a href="proin/arcu/">arcu</a></li>
-						<li class="navitem"><a href="proin/ex/">ex</a></li>
-					</ul>
-				</li>
-				<li class="navitem"><a href="suscipit/">suscipit</a>
-					<ul>
-						<li class="navitem"><a href="suscipit/est/">est</a></li>
-						<li class="navitem"><a href="suscipit/imperdiet/">imperdiet</a></li>
-						<li class="navitem"><a href="suscipit/maecenas/">maecenas</a></li>
-					</ul>
-				</li>
-			</ul>
-		</nav>
+
 	</div>
 	<h1>maecenas - Taso 3</h1>
 

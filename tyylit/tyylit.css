@@ -53,12 +53,8 @@ table th {
   background: deepskyblue;
 }
 
-.aside-1 {
-  background: gold;
-}
-
 .aside-2 {
-  background: hotpink;
+  background: #ebe49e;
 }
 
 @media all and (min-width: 600px) {
@@ -75,14 +71,6 @@ table th {
   margin-right: 1em;
   background-color: #ebe49e;
   border: 10px solid #d3cd92;
-}
-
-.navbox-right {
-  width: 25%;
-  height: 100em;
-  float: right;
-  margin-right: 1em;
-  background-color: #ebe49e;
 }
 
 /* Navigation bar - bottom */
@@ -201,10 +189,6 @@ table th {
 @media all and (min-width: 800px) {
   .main {
     flex: 3 0px;
-  }
-
-  .aside-1 {
-    order: 1;
   }
 
   .main {
