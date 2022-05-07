@@ -40,19 +40,6 @@ table th {
   flex: 1 100%;
 }
 
-.header {
-  background: tomato;
-}
-
-.footer {
-  background: lightgreen;
-}
-
-.main {
-  text-align: left;
-  background: deepskyblue;
-}
-
 .aside-2 {
   background: #ebe49e;
 }
@@ -61,6 +48,10 @@ table th {
   .aside {
     flex: 1 0 0;
   }
+}
+
+.google-bar {
+  background-color: #ffea00;
 }
 
 /* Navigation box */

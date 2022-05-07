@@ -28,40 +28,38 @@
 <body>
 
 	<div class="wrapper">
-		<header class="header">
 
-			<nav class="navbartop">
-				<ul>
-					<li>
-						<a href="https://www.jyu.fi/">Jyväskylän yliopisto</a>
-					</li>
-					<li>
-						<a href="https://www.jyu.fi/it/">Informaatioteknologian tiedekunta</a>
-					</li>
-					<li>
-						<a href="https://www.jyu.fi/it/fi/opiskelu/kandidaatti-ja-maisteriohjelmat/tietotekniikka">Tietotekniikan
-							oppiaine
-						</a>
-					</li>
-					<li>
-						<a href="https://appro.mit.jyu.fi/itkp1011/">ITKP1011</a>
-					</li>
-				</ul>
-			</nav>
+		<nav class="navbartop">
+			<ul>
+				<li>
+					<a href="https://www.jyu.fi/">Jyväskylän yliopisto</a>
+				</li>
+				<li>
+					<a href="https://www.jyu.fi/it/">Informaatioteknologian tiedekunta</a>
+				</li>
+				<li>
+					<a href="https://www.jyu.fi/it/fi/opiskelu/kandidaatti-ja-maisteriohjelmat/tietotekniikka">Tietotekniikan
+						oppiaine
+					</a>
+				</li>
+				<li>
+					<a href="https://appro.mit.jyu.fi/itkp1011/">ITKP1011</a>
+				</li>
+			</ul>
+			<div class="google-bar">
+				<form action="http://www.google.com/search" method="get">
+					<div>
+						<input type="hidden" name="as_q" value="site:users.jyu.fi/~jsarlin/www/" />
+						<input type="text" size="20" id="hakusanat" name="q" value="" />
+						<input type="submit" value="Hae" />
+					</div>
+				</form>
+			</div>
 
-		</header>
+		</nav>
 		<div class="main">
 
 			<h1>maecenas - Taso 3</h1>
-
-			<!-- TODO siirretään yläpalkkiin -->
-			<form action="http://www.google.com/search" method="get">
-				<div>
-					<input type="hidden" name="as_q" value="site:users.jyu.fi/~jsarlin/www/" />
-					<input type="text" size="20" id="hakusanat" name="q" value="" />
-					<input type="submit" value="Hae" />
-				</div>
-			</form>
 
 			<p>
 				Praesent vulputate scelerisque rutrum. Aenean in mauris dignissim neque rhoncus imperdiet ut id turpis. Maecenas
@@ -162,13 +160,6 @@
 			</nav>
 
 		</aside>
-	</div>
-
-
-	<div class="navigation">
-
-
-
 	</div>
 
 </body>
