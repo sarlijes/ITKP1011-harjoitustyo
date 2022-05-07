@@ -91,10 +91,10 @@
 		tempus non. Sed commodo vulputate molestie.
 	</p>
 	<h2>Video</h2>
-	<video controls="controls" class="video" src="../../video.mp4"></video>
+	<video controls="controls" class="video" src=video.mp4"></video>
 
 	<h2>Ääni</h2>
-	<audio controls="controls" src="../../musiikki.mp3"></audio>
+	<audio controls="controls" src=musiikki.mp3"></audio>
 	<!--#include virtual="/~jsarlin/cursus/navbarbottom.include"-->
 </body>
 
