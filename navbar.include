@@ -1,0 +1,42 @@
+  <div class="navigation">
+    <nav class="navbartop">
+      <ul>
+        <li>
+          <a href="https://www.jyu.fi/">Jyväskylän yliopisto</a>
+        </li>
+        <li>
+          <a href="https://www.jyu.fi/it/">Informaatioteknologian tiedekunta</a>
+        </li>
+        <li>
+          <a href="https://www.jyu.fi/it/fi/opiskelu/kandidaatti-ja-maisteriohjelmat/tietotekniikka">Tietotekniikan
+            oppiaine
+          </a>
+        </li>
+        <li>
+          <a href="https://appro.mit.jyu.fi/itkp1011/">ITKP1011</a>
+        </li>
+      </ul>
+    </nav>
+
+<li><a href="/~jsarlin/cursus/">Artikkelit</a></li>
+    <nav class="navbox">
+      <ul>
+        <li class="navitem"><a href="/~jsarlin/cursus/amet/">amet</a></li>
+        <li class="navitem"><a href="/~jsarlin/cursus/porttitor/">porttitor</a></li>
+        <li class="navitem"><a href="/~jsarlin/cursus/proin/">proin</a>
+          <ul>
+            <li class="navitem"><a href="/~jsarlin/cursus/proin/ante/">ante</a></li>
+            <li class="navitem"><a href="/~jsarlin/cursus/proin/arcu">arcu</a></li>
+            <li class="navitem"><a href="/~jsarlin/cursus/proin/ex/">ex</a></li>
+          </ul>
+        </li>
+        <li class="navitem"><a href="/~jsarlin/cursus/suscipit/">suscipit</a>
+          <ul>
+            <li class="navitem"><a href="/~jsarlin/cursus/suscipit/est/">est</a></li>
+            <li class="navitem"><a href="/~jsarlin/cursus/suscipit/imperdiet/">imperdiet</a></li>
+            <li class="navitem"><a href="/~jsarlin/cursus/suscipit/maecenas/">maecenas</a></li>
+          </ul>
+        </li>
+      </ul>
+    </nav>
+  </div>
