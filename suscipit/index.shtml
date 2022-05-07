@@ -21,7 +21,6 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
 	<link rel="StyleSheet" href="../../tyylit/tyylit.css" type="text/css" />
 	<title>suscipit - ITKP1011-Harjoitustyö</title>
-
 </head>
 
 <body>
@@ -62,9 +61,9 @@
 	<p>
 	<table>
 
+		<caption>Mallitaulukko</caption>
 
 		<tbody>
-			<caption>Mallitaulukko</caption>
 
 			<tr>
 				<td>ots 1</td>
@@ -74,9 +73,7 @@
 				<td>ots 5</td>
 			</tr>
 			<tr>
-				<td>
-					<p>0</p>
-				</td>
+				<td>0</td>
 				<td>1</td>
 				<td>4</td>
 				<td>9</td>
@@ -113,7 +110,7 @@
 		</tbody>
 	</table>
 	<!-- DivTable.com -->
-	</p>
+
 	<p>
 		Maecenas sollicitudin hendrerit interdum. Quisque interdum metus at enim mattis auctor. Cras dui urna, lobortis nec
 		pretium quis, efficitur at lectus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed fringilla metus
@@ -129,10 +126,7 @@
 		justo cursus sed. Maecenas imperdiet feugiat arcu in sagittis. Sed sodales mauris libero, ut interdum velit egestas
 		quis. In bibendum, eros pharetra pretium semper, nisl risus mattis lorem, at euismod enim tortor vel erat. Phasellus
 		nec arcu lectus. Etiam molestie venenatis felis in tincidunt. Nullam et viverra turpis.
-
-
 	</p>
-
 
 </body>
 
