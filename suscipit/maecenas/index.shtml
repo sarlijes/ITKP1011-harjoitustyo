@@ -18,7 +18,7 @@
 	<script src="https://appro.mit.jyu.fi/tools/htmlinspector/html-inspector.js"></script>
 	<script src="https://appro.mit.jyu.fi/tools/itkp1011/itkp1011.js"></script>
 	<!-- tästä eteenpäin voit muutella vapaasti -->
-	<link rel="StyleSheet" href="../../tyylit/tyylit.css" type="text/css" />
+	<link rel="StyleSheet" href="../../tyylit/tyylit.css" type="text/css" media="all" />
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
 	<title>maecenas - ITKP1011-Harjoitustyö</title>
 
@@ -26,6 +26,16 @@
 
 <body>
 	<h1>maecenas - Taso 3</h1>
+
+	<!-- TODO siirretään yläpalkkiin -->
+	<form action="http://www.google.com/search" method="get">
+		<div>
+			<input type="hidden" name="as_q" value="site:users.jyu.fi/~omatunnuksesi/www/" />
+			<input type="text" size="20" id="hakusanat" name="q" value="" />
+			<input type="submit" value="Hae" />
+		</div>
+	</form>
+
 	<p>
 		Praesent vulputate scelerisque rutrum. Aenean in mauris dignissim neque rhoncus imperdiet ut id turpis. Maecenas
 		venenatis dapibus blandit. Donec porttitor ante mauris, ultrices sodales lorem congue a. Maecenas bibendum tempor
