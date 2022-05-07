@@ -1,4 +1,4 @@
-  <div class="wrapper">
+  <div class="navigation">
     <nav class="navbartop">
       <ul>
         <li>
@@ -18,26 +18,24 @@
       </ul>
     </nav>
 
-    <aside class="aside aside-2">
-      <nav>
-        <ul>
-          <li class="navitem"><a href="amet/">amet</a></li>
-          <li class="navitem"><a href="porttitor/">porttitor</a></li>
-          <li class="navitem"><a href="proin/">proin</a>
-            <ul>
-              <li class="navitem"><a href="proin/ante/">ante</a></li>
-              <li class="navitem"><a href="proin/arcu/">arcu</a></li>
-              <li class="navitem"><a href="proin/ex/">ex</a></li>
-            </ul>
-          </li>
-          <li class="navitem"><a href="suscipit/">suscipit</a>
-            <ul>
-              <li class="navitem"><a href="suscipit/est/">est</a></li>
-              <li class="navitem"><a href="suscipit/imperdiet/">imperdiet</a></li>
-              <li class="navitem"><a href="suscipit/maecenas/">maecenas</a></li>
-            </ul>
-          </li>
-        </ul>
-      </nav>
-    </aside>
+    <nav class="navbox">
+      <ul>
+        <li class="navitem"><a href="amet/">amet</a></li>
+        <li class="navitem"><a href="porttitor/">porttitor</a></li>
+        <li class="navitem"><a href="proin/">proin</a>
+          <ul>
+            <li class="navitem"><a href="proin/ante/">ante</a></li>
+            <li class="navitem"><a href="proin/arcu/">arcu</a></li>
+            <li class="navitem"><a href="proin/ex/">ex</a></li>
+          </ul>
+        </li>
+        <li class="navitem"><a href="suscipit/">suscipit</a>
+          <ul>
+            <li class="navitem"><a href="suscipit/est/">est</a></li>
+            <li class="navitem"><a href="suscipit/imperdiet/">imperdiet</a></li>
+            <li class="navitem"><a href="suscipit/maecenas/">maecenas</a></li>
+          </ul>
+        </li>
+      </ul>
+    </nav>
   </div>
