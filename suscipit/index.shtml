@@ -60,7 +60,6 @@
 		condimentum eros quis vehicula. Maecenas eget justo rutrum, suscipit dui at, aliquam elit. Mauris tempus, sapien nec
 		rutrum molestie, metus augue pharetra odio, vel laoreet nibh justo sed augue.
 	</p>
-	<p>
 	<table>
 
 		<caption>Mallitaulukko</caption>
@@ -68,11 +67,11 @@
 		<tbody>
 
 			<tr>
-				<td>ots 1</td>
-				<td>ots 2</td>
-				<td>ots 3</td>
-				<td>ots 4</td>
-				<td>ots 5</td>
+				<th>ots 1</th>
+				<th>ots 2</th>
+				<th>ots 3</th>
+				<th>ots 4</th>
+				<th>ots 5</th>
 			</tr>
 			<tr>
 				<td>0</td>

@@ -25,7 +25,7 @@
         <li class="navitem"><a href="proin/">proin</a>
           <ul>
             <li class="navitem"><a href="proin/ante/">ante</a></li>
-            <li class="navitem"><a href="proin/arcu">arcu</a></li>
+            <li class="navitem"><a href="proin/arcu/">arcu</a></li>
             <li class="navitem"><a href="proin/ex/">ex</a></li>
           </ul>
         </li>
