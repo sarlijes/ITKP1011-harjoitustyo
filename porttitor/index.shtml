@@ -25,6 +25,7 @@
 </head>
 
 <body>
+	<!--#include virtual="/~jsarlin/cursus/navbar.include"-->
 	<h1>portittor</h1>
 	<p>
 		Cras egestas iaculis scelerisque. Sed cursus pulvinar tortor, vitae dapibus odio. Fusce pulvinar risus at commodo

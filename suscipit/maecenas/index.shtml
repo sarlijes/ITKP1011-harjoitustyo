@@ -26,6 +26,7 @@
 </head>
 
 <body>
+	<!--#include virtual="/~jsarlin/cursus/navbar.include"-->
 	<h1>maecenas - Taso 3</h1>
 
 	<!-- TODO siirretään yläpalkkiin -->

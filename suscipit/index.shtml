@@ -25,6 +25,7 @@
 </head>
 
 <body>
+	<!--#include virtual="/~jsarlin/cursus/navbar.include"-->
 	<h1>suscipit - Taso 1</h1>
 	<p>
 		Nam ut consequat metus. Sed id tempor magna. In hac habitasse platea dictumst. Aenean consequat, nisi eu vehicula

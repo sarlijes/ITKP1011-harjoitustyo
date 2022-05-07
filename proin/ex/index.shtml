@@ -26,6 +26,7 @@
 </head>
 
 <body>
+	<!--#include virtual="/~jsarlin/cursus/navbar.include"-->
 	<h1>ex</h1>
 	<p>
 		Nulla consequat pretium eros non viverra. Quisque quis dolor tortor. Praesent iaculis fringilla mi, varius dapibus

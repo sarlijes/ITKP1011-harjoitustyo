@@ -26,6 +26,7 @@
 </head>
 
 <body>
+	<!--#include virtual="/~jsarlin/cursus/navbar.include"-->
 	<h1>arcu</h1>
 
 	<p>

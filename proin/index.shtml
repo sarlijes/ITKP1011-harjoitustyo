@@ -26,6 +26,7 @@
 </head>
 
 <body>
+	<!--#include virtual="/~jsarlin/cursus/navbar.include"-->
 	<h1>proin</h1>
 	<p>
 		Integer purus mi, imperdiet eu scelerisque semper, ullamcorper vitae tortor. Vivamus faucibus nibh vitae turpis
