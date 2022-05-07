@@ -51,9 +51,93 @@
 
 		</header>
 		<div class="main">
-			<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor
-				quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean
-				ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+
+			<h1>maecenas - Taso 3</h1>
+
+			<!-- TODO siirretään yläpalkkiin -->
+			<form action="http://www.google.com/search" method="get">
+				<div>
+					<input type="hidden" name="as_q" value="site:users.jyu.fi/~jsarlin/www/" />
+					<input type="text" size="20" id="hakusanat" name="q" value="" />
+					<input type="submit" value="Hae" />
+				</div>
+			</form>
+
+			<p>
+				Praesent vulputate scelerisque rutrum. Aenean in mauris dignissim neque rhoncus imperdiet ut id turpis. Maecenas
+				venenatis dapibus blandit. Donec porttitor ante mauris, ultrices sodales lorem congue a. Maecenas bibendum
+				tempor
+				enim, eget hendrerit lacus dapibus in. Donec quam sem, maximus eget tristique non, efficitur eget eros. Maecenas
+				lobortis placerat ex in posuere. Mauris sollicitudin condimentum turpis, eget hendrerit odio consectetur quis.
+				Cras
+				ultrices venenatis elit in pulvinar. Nam vehicula nulla vitae diam mollis, tristique tempor eros convallis.
+				Curabitur auctor purus nec quam lobortis faucibus. Pellentesque habitant morbi tristique senectus et netus et
+				malesuada fames ac turpis egestas. Nulla in pellentesque dolor. Praesent rutrum, lacus quis pharetra suscipit,
+				orci
+				erat ultrices sem, id commodo leo ante eget tellus. Proin ut tellus rhoncus, aliquet neque ut, laoreet dolor.
+			</p>
+			Maecenas sit amet tellus rutrum, elementum dolor a, pulvinar diam. Vivamus quis laoreet tellus. Sed commodo eget
+			augue
+			at laoreet. Ut porttitor porttitor congue. Maecenas egestas aliquam enim a tincidunt. Curabitur congue tristique
+			pharetra. Donec posuere sapien ac nisl iaculis consectetur vitae at mi. Vestibulum sed velit non est dapibus
+			pellentesque ut eu lorem. Curabitur eget eleifend lectus.
+
+			<p>
+				Nulla molestie vestibulum velit, ac gravida arcu commodo et. Pellentesque habitant morbi tristique senectus et
+				netus
+				et malesuada fames ac turpis egestas. Aenean dignissim fermentum ipsum, et consectetur est ultricies ut.
+				Maecenas
+				maximus ac lorem sed viverra. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac
+				turpis
+				egestas. Duis a vulputate metus. Aliquam erat volutpat. Proin tempus risus pulvinar, auctor libero ornare,
+				scelerisque nisi. Phasellus eget est enim. Ut pellentesque, odio quis pharetra dignissim, ante enim lacinia
+				dolor,
+				ut viverra augue libero nec nunc. Phasellus aliquam condimentum porta. Donec mollis quis leo a pulvinar. Donec
+				quis
+				urna vel turpis scelerisque semper.
+			</p>
+
+			<p>
+				Aenean mattis tincidunt purus, vitae pellentesque odio ullamcorper eu. Nullam at dictum est. Morbi ac commodo
+				nisi.
+				Pellentesque libero sem, porttitor id ligula et, tempor interdum mauris. Curabitur eget ipsum lectus.
+				Pellentesque
+				quis odio ut lacus ultrices commodo. Vestibulum faucibus, nisl ac efficitur aliquam, felis ipsum consequat
+				magna, a
+				ornare tellus sapien ac nibh. Sed sit amet elit nunc. Cras non finibus lorem.
+			</p>
+
+			<iframe class="video" src="https://www.youtube.com/embed/s13dLaTIHSg" allow="fullscreen"></iframe>
+
+			<p>
+				<a href="https://www.youtube.com/watch?v=s13dLaTIHSg">https://www.youtube.com/watch?v=s13dLaTIHSg</a>
+			</p>
+
+			<p>
+				Curabitur eget dui dictum lorem semper eleifend quis sed lorem. Ut vel velit nisl. Nullam sollicitudin, risus
+				eget
+				auctor aliquet, mi purus lobortis arcu, sodales maximus velit augue at diam. Nulla sem libero, facilisis ut
+				ullamcorper eget, sodales eget dolor. Integer congue lectus est, eget pretium tellus luctus quis. Cras id cursus
+				sapien. Cras rutrum cursus tortor, eu lacinia nibh efficitur varius.
+			</p>
+
+			<p>
+				Suspendisse laoreet porttitor enim. Nulla facilisis nec est sed rutrum. Integer in porttitor dolor. Proin mattis
+				tellus a placerat semper. Pellentesque eget nunc risus. Integer non aliquet quam. Quisque non nisl ac urna
+				lobortis
+				ultrices. Quisque commodo in ex vitae bibendum. Morbi eget tellus quis lectus mattis imperdiet non et magna.
+				Mauris
+				iaculis hendrerit magna, nec hendrerit ante viverra eu. Nulla condimentum consectetur turpis, et scelerisque
+				ante
+				tempus non. Sed commodo vulputate molestie.
+			</p>
+			<h2>Video</h2>
+			<video controls="controls" class="video" src="video.mp4"></video>
+
+			<h2>Ääni</h2>
+			<audio controls="controls" src="musiikki.mp3"></audio>
+			<!--#include virtual="/~jsarlin/cursus/navbarbottom.include"-->
+
 		</div>
 		<aside class="aside aside-2">
 			<nav>
@@ -86,75 +170,7 @@
 
 
 	</div>
-	<h1>maecenas - Taso 3</h1>
 
-	<!-- TODO siirretään yläpalkkiin -->
-	<form action="http://www.google.com/search" method="get">
-		<div>
-			<input type="hidden" name="as_q" value="site:users.jyu.fi/~jsarlin/www/" />
-			<input type="text" size="20" id="hakusanat" name="q" value="" />
-			<input type="submit" value="Hae" />
-		</div>
-	</form>
-
-	<p>
-		Praesent vulputate scelerisque rutrum. Aenean in mauris dignissim neque rhoncus imperdiet ut id turpis. Maecenas
-		venenatis dapibus blandit. Donec porttitor ante mauris, ultrices sodales lorem congue a. Maecenas bibendum tempor
-		enim, eget hendrerit lacus dapibus in. Donec quam sem, maximus eget tristique non, efficitur eget eros. Maecenas
-		lobortis placerat ex in posuere. Mauris sollicitudin condimentum turpis, eget hendrerit odio consectetur quis. Cras
-		ultrices venenatis elit in pulvinar. Nam vehicula nulla vitae diam mollis, tristique tempor eros convallis.
-		Curabitur auctor purus nec quam lobortis faucibus. Pellentesque habitant morbi tristique senectus et netus et
-		malesuada fames ac turpis egestas. Nulla in pellentesque dolor. Praesent rutrum, lacus quis pharetra suscipit, orci
-		erat ultrices sem, id commodo leo ante eget tellus. Proin ut tellus rhoncus, aliquet neque ut, laoreet dolor.
-	</p>
-	Maecenas sit amet tellus rutrum, elementum dolor a, pulvinar diam. Vivamus quis laoreet tellus. Sed commodo eget augue
-	at laoreet. Ut porttitor porttitor congue. Maecenas egestas aliquam enim a tincidunt. Curabitur congue tristique
-	pharetra. Donec posuere sapien ac nisl iaculis consectetur vitae at mi. Vestibulum sed velit non est dapibus
-	pellentesque ut eu lorem. Curabitur eget eleifend lectus.
-
-	<p>
-		Nulla molestie vestibulum velit, ac gravida arcu commodo et. Pellentesque habitant morbi tristique senectus et netus
-		et malesuada fames ac turpis egestas. Aenean dignissim fermentum ipsum, et consectetur est ultricies ut. Maecenas
-		maximus ac lorem sed viverra. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis
-		egestas. Duis a vulputate metus. Aliquam erat volutpat. Proin tempus risus pulvinar, auctor libero ornare,
-		scelerisque nisi. Phasellus eget est enim. Ut pellentesque, odio quis pharetra dignissim, ante enim lacinia dolor,
-		ut viverra augue libero nec nunc. Phasellus aliquam condimentum porta. Donec mollis quis leo a pulvinar. Donec quis
-		urna vel turpis scelerisque semper.
-	</p>
-
-	<p>
-		Aenean mattis tincidunt purus, vitae pellentesque odio ullamcorper eu. Nullam at dictum est. Morbi ac commodo nisi.
-		Pellentesque libero sem, porttitor id ligula et, tempor interdum mauris. Curabitur eget ipsum lectus. Pellentesque
-		quis odio ut lacus ultrices commodo. Vestibulum faucibus, nisl ac efficitur aliquam, felis ipsum consequat magna, a
-		ornare tellus sapien ac nibh. Sed sit amet elit nunc. Cras non finibus lorem.
-	</p>
-
-	<iframe class="video" src="https://www.youtube.com/embed/s13dLaTIHSg" allow="fullscreen"></iframe>
-
-	<p>
-		<a href="https://www.youtube.com/watch?v=s13dLaTIHSg">https://www.youtube.com/watch?v=s13dLaTIHSg</a>
-	</p>
-
-	<p>
-		Curabitur eget dui dictum lorem semper eleifend quis sed lorem. Ut vel velit nisl. Nullam sollicitudin, risus eget
-		auctor aliquet, mi purus lobortis arcu, sodales maximus velit augue at diam. Nulla sem libero, facilisis ut
-		ullamcorper eget, sodales eget dolor. Integer congue lectus est, eget pretium tellus luctus quis. Cras id cursus
-		sapien. Cras rutrum cursus tortor, eu lacinia nibh efficitur varius.
-	</p>
-
-	<p>
-		Suspendisse laoreet porttitor enim. Nulla facilisis nec est sed rutrum. Integer in porttitor dolor. Proin mattis
-		tellus a placerat semper. Pellentesque eget nunc risus. Integer non aliquet quam. Quisque non nisl ac urna lobortis
-		ultrices. Quisque commodo in ex vitae bibendum. Morbi eget tellus quis lectus mattis imperdiet non et magna. Mauris
-		iaculis hendrerit magna, nec hendrerit ante viverra eu. Nulla condimentum consectetur turpis, et scelerisque ante
-		tempus non. Sed commodo vulputate molestie.
-	</p>
-	<h2>Video</h2>
-	<video controls="controls" class="video" src="video.mp4"></video>
-
-	<h2>Ääni</h2>
-	<audio controls="controls" src="musiikki.mp3"></audio>
-	<!--#include virtual="/~jsarlin/cursus/navbarbottom.include"-->
 </body>
 
 </html>
