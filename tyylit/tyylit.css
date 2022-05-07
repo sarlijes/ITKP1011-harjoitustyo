@@ -26,14 +26,64 @@ table th {
   text-align: center;
 }
 
+/* Special layout for maecenas page */
+/* Source: https://css-tricks.com/snippets/css/a-guide-to-flexbox/ */
+
+.wrapper {
+  display: flex;
+  flex-flow: row wrap;
+  font-weight: bold;
+  text-align: center;
+}
+
+.wrapper>* {
+  padding: 10px;
+  flex: 1 100%;
+}
+
+.header {
+  background: tomato;
+}
+
+.footer {
+  background: lightgreen;
+}
+
+.main {
+  text-align: left;
+  background: deepskyblue;
+}
+
+.aside-1 {
+  background: gold;
+}
+
+.aside-2 {
+  background: hotpink;
+}
+
+@media all and (min-width: 600px) {
+  .aside {
+    flex: 1 0 0;
+  }
+}
+
 /* Navigation box */
 
 .navbox {
-  width: 30%;
+  width: 25%;
   float: left;
   margin-right: 1em;
   background-color: #ebe49e;
   border: 10px solid #d3cd92;
+}
+
+.navbox-right {
+  width: 25%;
+  height: 100em;
+  float: right;
+  margin-right: 1em;
+  background-color: #ebe49e;
 }
 
 /* Navigation bar - bottom */
@@ -145,6 +195,25 @@ table th {
   pre {
     overflow: scroll;
   }
+}
+
+@media all and (min-width: 800px) {
+  .main {
+    flex: 3 0px;
+  }
+
+  .aside-1 {
+    order: 1;
+  }
+
+  .main {
+    order: 2;
+  }
+
+  .aside-2 {
+    order: 3;
+  }
+
 }
 
 @media print {
