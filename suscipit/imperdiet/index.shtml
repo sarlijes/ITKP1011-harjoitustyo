@@ -60,44 +60,44 @@
 			<a href="kuvat/kuva1.jpg">
 				<img src="kuvat/kuva1_pieni.jpg" alt="maisemakuva, linkki isompaan kuvaan" />
 			</a>
-			<div class="kuva-teksti-galleria">kuva 1</div>
+			<div class="kuva-teksti">kuva 1</div>
 		</div>
 
 		<div class="galleriakuva">
 			<a href="kuvat/kuva2.jpg">
 				<img src="kuvat/kuva2_pieni.jpg" alt="maisemakuva, linkki isompaan kuvaan" />
 			</a>
-			<div class="kuva-teksti-galleria">kuva 2</div>
+			<div class="kuva-teksti">kuva 2</div>
 		</div>
 		<div class="galleriakuva">
 			<a href="kuvat/kuva3.jpg">
 				<img src="kuvat/kuva3_pieni.jpg" alt="maisemakuva, linkki isompaan kuvaan" />
 			</a>
-			<div class="kuva-teksti-galleria">kuva 3</div>
+			<div class="kuva-teksti">kuva 3</div>
 		</div>
 		<div class="galleriakuva">
 			<a href="kuvat/kuva4.jpg">
 				<img src="kuvat/kuva4_pieni.jpg" alt="maisemakuva, linkki isompaan kuvaan" />
 			</a>
-			<div class="kuva-teksti-galleria">kuva 4</div>
+			<div class="kuva-teksti">kuva 4</div>
 		</div>
 		<div class="galleriakuva">
 			<a href="kuvat/kuva5.jpg">
 				<img src="kuvat/kuva5_pieni.jpg" alt="maisemakuva, linkki isompaan kuvaan" />
 			</a>
-			<div class="kuva-teksti-galleria">kuva 5</div>
+			<div class="kuva-teksti">kuva 5</div>
 		</div>
 		<div class="galleriakuva">
 			<a href="kuvat/kuva6.jpg">
 				<img src="kuvat/kuva6_pieni.jpg" alt="maisemakuva, linkki isompaan kuvaan" />
 			</a>
-			<div class="kuva-teksti-galleria">kuva 6</div>
+			<div class="kuva-teksti">kuva 6</div>
 		</div>
 		<div class="galleriakuva">
 			<a href="kuvat/kuva7.jpg">
 				<img src="kuvat/kuva7_pieni.jpg" alt="maisemakuva, linkki isompaan kuvaan" />
 			</a>
-			<div class="kuva-teksti-galleria">kuva 7</div>
+			<div class="kuva-teksti">kuva 7</div>
 		</div>
 	</div>
 

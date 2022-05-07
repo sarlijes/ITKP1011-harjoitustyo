@@ -103,7 +103,7 @@
   </p>
 
   <div id="images">
-    <a href="http://xyz.com/hi">
+    <a href="kuvat/etusivu1.jpg">
       <img src="kuvat/etusivu1_pienennetty.jpg" alt="linkkinä toimiva kuva" />
       <div class="caption">etusivu 1</div>
     </a>

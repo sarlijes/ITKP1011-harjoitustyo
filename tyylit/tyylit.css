@@ -135,11 +135,6 @@ table th {
   font-weight: bold;
 }
 
-.kuva-teksti-galleria {
-  text-align: center;
-  font-weight: bold;
-}
-
 .flexbox {
   display: flex;
   flex-direction: row;
