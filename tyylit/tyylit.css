@@ -33,12 +33,10 @@ table th {
 .wrapper {
   display: flex;
   flex-flow: row wrap;
-  font-weight: bold;
-  text-align: center;
+  text-align: left;
 }
 
 .wrapper>* {
-  padding: 10px;
   flex: 1 100%;
 }
 
