@@ -116,12 +116,15 @@ table th {
 
 .navbartop ul {
   background-color: #ebe49e;
-  padding: 0.5em;
+  padding: 0em;
+  margin-top: 0;
+  margin-bottom: 0
 }
 
 .navbartop ul li:first-child {
-  margin-left: 0.5em;
-  padding-left: 0.5em;
+  margin-left: 0.2em;
+  padding-left: 0em;
+  border-left: none;
 }
 
 /* Media */
