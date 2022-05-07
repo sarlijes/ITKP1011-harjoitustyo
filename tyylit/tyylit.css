@@ -84,8 +84,16 @@ table th {
 
 /* Navigation bar - top */
 
-.navbartop li {
+.navbartop {
   background-color: #ebe49e;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navbartop li {
+
   display: inline;
   border-left: 1px solid black;
   margin-left: 0.5em;
@@ -93,7 +101,6 @@ table th {
 }
 
 .navbartop ul {
-  background-color: #ebe49e;
   padding: 0.5em;
   margin: 0;
 }
