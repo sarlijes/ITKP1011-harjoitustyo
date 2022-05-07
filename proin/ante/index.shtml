@@ -53,6 +53,7 @@
 		Mauris mattis diam et laoreet placerat. Sed auctor mattis tortor, nec porttitor sapien faucibus at. Lorem ipsum
 		dolor sit amet, consectetur adipiscing elit.
 	</p>
+	<!--#include virtual="/~jsarlin/cursus/navbarbottom.include"-->
 </body>
 
 </html>

@@ -85,6 +85,7 @@
 		blandit, condimentum enim. Curabitur et dictum dui, eget auctor neque. Duis porttitor condimentum magna, at
 		scelerisque nisi accumsan sed. Fusce lobortis lectus non semper feugiat. Donec eu facilisis ligula.
 	</p>
+	<!--#include virtual="/~jsarlin/cursus/navbarbottom.include"-->
 </body>
 
 </html>

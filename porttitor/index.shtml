@@ -78,6 +78,7 @@
 		pharetra nunc vel est cursus, id cursus eros imperdiet. Curabitur ut dapibus nunc. Mauris urna sapien, efficitur in
 		lacinia et, malesuada sed diam. Aliquam erat volutpat.
 	</p>
+	<!--#include virtual="/~jsarlin/cursus/navbarbottom.include"-->
 </body>
 
 </html>

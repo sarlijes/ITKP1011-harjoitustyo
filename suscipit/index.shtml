@@ -128,7 +128,7 @@
 		quis. In bibendum, eros pharetra pretium semper, nisl risus mattis lorem, at euismod enim tortor vel erat. Phasellus
 		nec arcu lectus. Etiam molestie venenatis felis in tincidunt. Nullam et viverra turpis.
 	</p>
-
+	<!--#include virtual="/~jsarlin/cursus/navbarbottom.include"-->
 </body>
 
 </html>

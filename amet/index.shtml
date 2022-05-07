@@ -80,7 +80,7 @@
 		risus. Vivamus sit amet sollicitudin nisi. Quisque quis lorem tempus, iaculis metus id, varius lectus. Ut congue eu
 		ex at varius.
 	</p>
-
+	<!--#include virtual="/~jsarlin/cursus/navbarbottom.include"-->
 </body>
 
 </html>

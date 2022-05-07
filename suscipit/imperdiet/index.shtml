@@ -118,7 +118,7 @@
 		felis arcu. Duis sed libero purus. Donec malesuada mauris at semper placerat.
 	</p>
 
-
+	<!--#include virtual="/~jsarlin/cursus/navbarbottom.include"-->
 </body>
 
 </html>

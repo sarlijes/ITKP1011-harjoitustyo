@@ -54,6 +54,7 @@
 		vitae blandit. Suspendisse iaculis ultricies erat id rutrum. Quisque tincidunt mollis sapien, id sagittis neque.
 		Praesent nec luctus massa.
 	</p>
+	<!--#include virtual="/~jsarlin/cursus/navbarbottom.include"-->
 </body>
 
 </html>

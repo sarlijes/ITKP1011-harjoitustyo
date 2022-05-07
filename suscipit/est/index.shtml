@@ -75,7 +75,7 @@
 		porttitor. Pellentesque egestas ante nec aliquet vulputate. Nunc nec purus finibus, pulvinar dolor non, ultrices
 		tellus.
 	</p>
-
+	<!--#include virtual="/~jsarlin/cursus/navbarbottom.include"-->
 </body>
 
 </html>
