@@ -156,6 +156,10 @@ table th {
 
 @media all and (max-width: 600px) {
 
+  h1 {
+    margin: 0em;
+  }
+
   .navigation {
     display: flex;
     flex-direction: row-reverse;
@@ -168,7 +172,7 @@ table th {
     width: 50%;
     margin-right: 0.5em;
     border: none;
-    padding: 0em;
+    padding: 0;
     margin-top: 0;
     margin-bottom: 0;
     margin-left: 0em;
@@ -177,6 +181,7 @@ table th {
   .navbartop {
     flex: 2;
     align-items: stretch;
+    padding: 0;
   }
 
   .navbartop ul li {
@@ -189,7 +194,7 @@ table th {
 
   .navbartop ul {
     list-style-type: circle;
-    padding: 0.5em;
+    padding: 0.2em;
   }
 
   .navbartop ul li:first-child {
