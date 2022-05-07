@@ -160,6 +160,8 @@ table th {
     display: flex;
     flex-direction: row-reverse;
     flex-wrap: nowrap;
+    align-items: stretch;
+    margin-top: 1em;
   }
 
   .navbox {
@@ -167,10 +169,14 @@ table th {
     margin-right: 0.5em;
     border: none;
     padding: 0em;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 0em;
   }
 
-  .navbartop ul {
-    list-style-type: circle;
+  .navbartop {
+    flex: 2;
+    align-items: stretch;
   }
 
   .navbartop ul li {
@@ -182,6 +188,7 @@ table th {
   }
 
   .navbartop ul {
+    list-style-type: circle;
     padding: 0.5em;
   }
 
