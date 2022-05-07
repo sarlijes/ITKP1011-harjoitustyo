@@ -3,6 +3,7 @@
 body {
   margin-bottom: 2%;
   font-family: Arial, sans-serif;
+  margin: 0;
 }
 
 h1 {
@@ -117,6 +118,7 @@ table th {
 .navbartop ul {
   background-color: #ebe49e;
   padding: 0.5em;
+  margin: 0;
 }
 
 .navbartop ul li:first-child {
